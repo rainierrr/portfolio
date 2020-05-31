@@ -487,6 +487,15 @@ mark,
   height: auto;
 }
 
+.img-fluid3 {
+  max-width: 100%;
+  height: auto;
+}
+.img-fluid4 {
+  max-height: 90%;
+  width: 30rem;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -7639,6 +7648,27 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
+  margin-bottom: 3rem !important;
+}
+
+.mb-6,
+.my-6 {
+  margin-bottom: 3rem !important;
+}
+
+.mb-7,
+.my-7 {
+  margin-bottom: 3rem !important;
+}
+
+
+.mb-8,
+.my-8 {
+  margin-bottom: 3rem !important;
+}
+
+.mb-9,
+.my-9 {
   margin-bottom: 3rem !important;
 }
 
